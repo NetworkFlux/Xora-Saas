@@ -95,13 +95,16 @@ Ensure you have the following installed:
 
 Here are some snapshots of the application:
 
-1. **Hero Section**  
+1. **Hero Section**
+
    ![Hero Section](./images/Xora_1.png)
 
-2. **Pricing Section**  
+2. **Pricing Section**
+
    ![Pricing Section](./images/Xora_2.png)
 
-3. **Call to action Section**  
+3. **Call to action Section**
+
    ![Call to action Section](./images/Xora_3.png)
 
 ---
