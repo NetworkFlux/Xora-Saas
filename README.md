@@ -91,4 +91,19 @@ Ensure you have the following installed:
 
 ---
 
+## 🖼️ Screenshots
+
+Here are some snapshots of the application:
+
+1. **Hero Section**  
+   ![Hero Section](./images/Xora_1.png)
+
+2. **Pricing Section**  
+   ![Pricing Section](./images/Xora_2.png)
+
+3. **Call to action Section**  
+   ![Call to action Section](./images/Xora_3.png)
+
+---
+
 **Note:** This project isn’t currently hosted online. To explore it, follow the setup instructions above.
